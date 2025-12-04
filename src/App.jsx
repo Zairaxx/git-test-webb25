@@ -9,7 +9,7 @@ function App() {
   return (
     <>
      <h1>Git med WEBB25</h1>
-     <h2>Brandon är bäst!</h2>
+     <h2>Monica är bäst!</h2>
      <h3>New H3</h3>
     </>
   )
