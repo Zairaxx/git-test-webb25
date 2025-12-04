@@ -9,6 +9,7 @@ function App() {
   return (
     <>
      <h1>Git med WEBB25</h1>
+     <h2>New H2</h2>
     </>
   )
 }
